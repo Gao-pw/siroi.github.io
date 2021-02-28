@@ -8,7 +8,7 @@ module.exports = {
 
   title: "web技术手册 by siroi",
   description: 'web开发由浅入深',
-  // base: '/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/web/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
